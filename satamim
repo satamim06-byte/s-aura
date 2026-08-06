@@ -1,0 +1,38 @@
+<!-- DESIGN 1 -->
+<div class="portfolio-item">
+    <img src="images/architectural-villa.jpg" style="width: 100%; height: 280px; object-fit: cover;">
+    <div class="portfolio-content">
+        <h3>Luxury Villa Visualization</h3>
+        <p>Modern architectural render with landscaping and night lighting.</p>
+        <div class="portfolio-tags">
+            <span class="tag">Architecture</span>
+            <span class="tag">Visualization</span>
+        </div>
+    </div>
+</div>
+
+<!-- DESIGN 2 -->
+<div class="portfolio-item">
+    <img src="images/car-render.jpg" style="width: 100%; height: 280px; object-fit: cover;">
+    <div class="portfolio-content">
+        <h3>Sports Car Rendering</h3>
+        <p>Photorealistic automotive with metallic paint and reflections.</p>
+        <div class="portfolio-tags">
+            <span class="tag">Automotive</span>
+            <span class="tag">Product</span>
+        </div>
+    </div>
+</div>
+
+<!-- DESIGN 3 -->
+<div class="portfolio-item">
+    <img src="images/product-luxury.jpg" style="width: 100%; height: 280px; object-fit: cover;">
+    <div class="portfolio-content">
+        <h3>Luxury Watch Product Shot</h3>
+        <p>E-commerce ready product visualization with professional lighting.</p>
+        <div class="portfolio-tags">
+            <span class="tag">Product Design</span>
+            <span class="tag">E-commerce</span>
+        </div>
+    </div>
+</div>
